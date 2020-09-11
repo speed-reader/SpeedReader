@@ -1,6 +1,7 @@
 # Speed Reader Repo
 
 Contains the code for the SpeedReader App in React-Native. 
+
 COMING SOON
 
 
