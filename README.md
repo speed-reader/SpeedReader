@@ -8,6 +8,7 @@ COMING SOON
 ## How to contribute to android app.
 
 The open source version of this app will be available soon. 😞
+
 The code was not readable. Proper comments/indentation were not there. Therefore the code is being fixed for the open source community.
 
 Speed Reader is created in React-Native.  Any one familier or trying to learn React Native can contribute to this app. 
